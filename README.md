@@ -47,9 +47,18 @@
     <a href="https://getbootstrap.com/">
     <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
-    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
-    <img alt="SqlServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <a href="https://wordpress.org/">
+    <img alt="WordPress" src="https://img.shields.io/badge/wordPress-23282D?style=for-the-badge&logo=wordPress&logoColor=white"/>
     </a>
+    <a href="https://www.gimp.org/">
+    <img alt="gimp" src="https://img.shields.io/badge/gimp-887F65?style=for-the-badge&logo=gimp&logoColor=white"/>
+    </a>
+    <a href="https://mariadb.org/">
+    <img alt="mariadb" src="https://img.shields.io/badge/mariadb-C0765A?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    </a>
+    <a href="https://www.apachefriends.org/">
+    <img alt="xampp" src="https://img.shields.io/badge/xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+    </a>   
     <a href="https://git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
     </a>
@@ -59,8 +68,8 @@
     <a href="https://www.linuxfoundation.org/">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>
-    <a href="https://wordpress.org/">
-    <img alt="WordPress" src="https://img.shields.io/badge/wordPress-3A2F2F?style=for-the-badge&logo=wordPress&logoColor=white"/>
+    <a href="https://www.microsoft.com/">
+    <img alt="windows" src="https://img.shields.io/badge/windows-044EA4?style=for-the-badge&logo=windows&logoColor=white"/>
     </a>
     <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -68,8 +77,7 @@
     <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </a>
-    
-    
+        
 </p>
 
 ---
