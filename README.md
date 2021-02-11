@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="https://www.android.com/">
-    <img alt="Android" src="https://img.shields.io/badge/android-3A2F2F?style=for-the-badge&logo=android&logoColor=white"/>
+    <img alt="Android" src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
     </a>
     <a href="https://docs.oracle.com/en/java/">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
