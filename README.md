@@ -20,9 +20,12 @@
 ---
 
 <p>
-    <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#My Skills: </h2>
+    <h2 align="left">🧠 #My Skills: </h2>
 </p>
 <p align="center">
+     <a href="https://www.android.com/intl/pt-BR_br/">
+    <img alt="android" src="https://img.shields.io/twitter/url?color=android&label=android&logo=android&logoColor=android&style=for-the-          badge&url=https%3A%2F%2Fwww.android.com%2Fintl%2Fpt-BR_br%2F"/>
+    </a>
     <a href="https://docs.oracle.com/en/java/">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     </a>
@@ -59,6 +62,10 @@
     <a href="https://www.linuxfoundation.org/">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>
+    <a href="https://wordpress.org/">
+    <img alt="WordPress" src="https://img.shields.io/badge/wordPress-3A2F2F?style=for-the-badge&logo=wordPress&logoColor=white"/>
+    </a>
+   
     
 </p>
 
@@ -67,6 +74,6 @@
 
 - 🎮 Mobile Games;
 - 🚲 Pedalar;
-Update README.md
+
 ---
 <!--**britoleandro/britoleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
