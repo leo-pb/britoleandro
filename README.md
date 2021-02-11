@@ -66,7 +66,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://www.linuxfoundation.org/">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-82B841?style=for-the-badge&logo=linux&logoColor=white"/>
     </a>
     <a href="https://www.microsoft.com/">
     <img alt="windows" src="https://img.shields.io/badge/windows-044EA4?style=for-the-badge&logo=windows&logoColor=white"/>
