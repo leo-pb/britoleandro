@@ -13,8 +13,9 @@
 </p>
 
 <h2 align='left'>👨🏻‍💻 #Sobre mim:</h2>
-<p align='left' color="grey" font-size="20px">🧑🏻‍🚀 Eu sou o Leandro <br/>
-  💻 Principiante Dev Front-end .</p>
+<p align='left' color="grey" font-size="20px">
+  🧙‍♂️ Eu sou o Leandro <br/>
+  💻 Principiante Dev Front-end.</p>
 <p>
 
 ---
@@ -29,9 +30,6 @@
     <a href="https://docs.oracle.com/en/java/">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     </a>
-    <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     </a>
@@ -43,9 +41,6 @@
     </a>
     <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </a>
-    <a href="https://reactjs.org/">
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </a>
     <a href="https://getbootstrap.com/">
     <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -65,6 +60,13 @@
     <a href="https://wordpress.org/">
     <img alt="WordPress" src="https://img.shields.io/badge/wordPress-3A2F2F?style=for-the-badge&logo=wordPress&logoColor=white"/>
     </a>
+    <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    </a>
+    <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    </a>
+    
     
 </p>
 
