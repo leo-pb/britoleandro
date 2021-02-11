@@ -15,8 +15,10 @@
 <h2 align='left'>👨🏻‍💻 #Sobre mim:</h2>
 <p align='left' color="grey" font-size="20px">
   🧙‍♂️ Eu sou o Leandro <br/>
-  💻 Principiante Dev Front-end.</p>
-<p>
+  💻 Principalmente Dev Front-end <br/>
+  🌐 Dev WEB / 📱 Dev Mobile <br/>
+  🌲 Sempre pensando em ações para preservar a natureza
+</p>
 
 ---
 
@@ -73,8 +75,8 @@
 ---
 <h2 align='left'>✨ #Hobbies:</h2>
 
-- 🎮 Mobile Games;
 - 🚲 Pedalar;
+- 🎮 Mobile Games;
 
 ---
 <!--**britoleandro/britoleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
