@@ -1,5 +1,5 @@
 <h1 color="black" align="center"> #Olá pessoa 🖐️🙂 </h1>
-<p align="center" color="grey" size="14px">Bem vind@ ao meu GitHub! :octocat:</p>
+<p align="center" color="grey" size="14px">Bem-vind@! :octocat:</p>
 
 <p align="center">
     <a>
