@@ -12,25 +12,17 @@
     </a>   
 </p>
 
-<h2 align='left'>👨🏻‍💻 #Sobre mim:</h2>
-<p align='left' color="grey" font-size="20px">
-  🧙‍♂️ Eu sou o Leandro <br/>
-  💻 Principalmente Dev Front-end <br/>
-  🌐 Dev WEB / 📱 Dev Mobile <br/>
-  🌲 Sempre pensando em ações para preservar a natureza
-</p>
-
 ---
 
 <p>
     <h2 align="left">🧠 #My Skills: </h2>
 </p>
 <p align="center">
-    <a href="https://www.android.com/">
-    <img alt="Android" src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+    <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/php-007396?style=for-the-badge&logo=php&logoColor=white"/>
     </a>
-    <a href="https://docs.oracle.com/en/java/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <a href="https://www.javascript.com/">
+    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -38,8 +30,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </a>
-    <a href="https://www.javascript.com/">
-    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <a href="https://docs.oracle.com/en/java/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    </a>
+    <a href="https://www.android.com/">
+    <img alt="Android" src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
     </a>
     <a href="https://getbootstrap.com/">
     <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -80,4 +75,10 @@
 - 🎮 Mobile Games;
 
 ---
+
+<div align="center">
+  <a href="https://github.com/britoleandro">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=britoleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoleandro&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <!--**britoleandro/britoleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
